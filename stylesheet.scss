@@ -237,7 +237,7 @@ header{
   }
 }
 
-// ここから商品メニュー
+// セクションタイトル
 .border-title{
   font-size: 35px;
   border-bottom: 2px solid $main-color;
@@ -261,6 +261,7 @@ header{
   }
 }
 
+// ここから商品メニュー
 .prodacts{
   width: 100%;
 }
@@ -360,6 +361,7 @@ transition-duration: 0.5s;
   }      
 }
 
+// ボタン
 .btn{
   font-size: 2.5vw;
   background-color: #F8F7EF;
@@ -456,7 +458,7 @@ transition-duration: 0.5s;
     background-size: 100% ;
     background-repeat: no-repeat;
     position: relative;
-    height: 391px;
+    height: 270px;
     margin-top: 200px; 
   }
 
